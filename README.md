@@ -16,12 +16,12 @@
 <html>
 <head>
     <title>My second script</title>
-    // 在HTML标签中导入JS文件
+
     <script src="02-script.js"></script>
 
 </head>
 <body>
-	// 获取JS文件中的helloMessage字符
+
     <h1 id="helloMessage">
     </h1>
 </body>
@@ -44,7 +44,6 @@ function  writeMessage() {
 
 <head>
     <title>My JavaScript page</title>
-    // 导入JS文件
     <script src = "03-alert.js"></script>
 </head>
 <body>
@@ -87,7 +86,6 @@ if (ans) {
 </head>
 <body>
 	<h2 class ="centered">
-		// 链接另一个html文件 两个a标签中的是链接的显示文字
 		<a href = "04-LinkTo.html" id = "redirect" > Welcome to 		our site.. c'mon inl</a>
 	</h2>
 </body>
@@ -129,12 +127,10 @@ function initRedirect(){
 <html lang="en">
 <head>
     <title>Welcome to our site</title>
-    // 链接js文件
     <script src="05-RectLink.js"></script>
 </head>
 <body>
     <h2 class = "centered">
-        // 普通展示               跳转地址                  跳转地址的链接显示文字
         Hey,check out <a href="http://www.baidu.com" id="redirect">my cat's web sote</a>
     </h2>
 </body>
