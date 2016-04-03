@@ -1,0 +1,11 @@
+body{
+    background-color: #FFF;
+}
+
+iframe#icontent{
+    float:right;
+    border: 1px solid black;
+    width: 1350px;
+    height: 1300px;
+    margin-top:0px;
+}
