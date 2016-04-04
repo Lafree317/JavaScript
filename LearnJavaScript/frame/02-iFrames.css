@@ -5,7 +5,7 @@ body{
 iframe#icontent{
     float:right;
     border: 1px solid black;
-    width: 1350px;
-    height: 1300px;
+    width: 350px;
+    height: 300px;
     margin-top:0px;
 }
